@@ -14,7 +14,7 @@ export default function Service () {
                             <button>Hubungi CS</button>
                         </a>
                     </div>
-                    <div className="order-1 sm:order-2 bg-white rounded-full">
+                    <div className="order-1 sm:order-2 bg-white rounded-full align-middle self-center">
                         <img src={Logo} alt="Gambar Disini"></img>
                     </div>
                 </div>
